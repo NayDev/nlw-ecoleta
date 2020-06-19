@@ -7,7 +7,7 @@ Abaixo uma lista com as principais técnologias utilizados no desenvolvimento de
  React Native
  Node.js
  React
- Expo
+ Expo.
 📚 Bibliotecas e Dependências
  React Navigation
  React-Dropzone
@@ -15,7 +15,7 @@ Abaixo uma lista com as principais técnologias utilizados no desenvolvimento de
  Express
  Leaflet
  Multer
- Axios
+ Axios.
 🏦 Banco de dados
  MySQL
- Knex
+ Knex.
