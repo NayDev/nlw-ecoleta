@@ -1,4 +1,4 @@
-# nlw-ecoleta
+# NLW-Ecoleta
 Desenvolvimento durante a Next Level Week ministrada pela Rocketseat.
 # Tecnologias
 Abaixo uma lista com as principais técnologias utilizados no desenvolvimento desta aplicação. Lembrando que tudo foi desenvolvido utilizando a linguagem Typescript.
